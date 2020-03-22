@@ -1,2 +1,12 @@
 # Toshiba-Satellite-C660-195-Project
-Again this is going to be a different resporitory with a mix of code, image/video and details about the Toshiba Satellite C660 195 Laptop i have been sorting as a project
+## Images/Videos branch introduction 
+This branch will be the hub for images and videos of this project
+
+### File List
+
+
+
+
+### Branch Creator
+1. Neil Bickle
+
