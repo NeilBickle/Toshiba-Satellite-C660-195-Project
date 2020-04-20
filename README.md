@@ -33,6 +33,10 @@ this is going to be a different resporitory with a mix of code, image/video and 
 1. 4GB DDR3 Ram 800MHZ Making Total Ram 4GB 800MHZ
 2. With ram upgrade shared ram will be upgraded to 1.7gb at the highest i am unsure what the lowest will be.
 
+### File type list
+1. .md
+
+
 
 
 
